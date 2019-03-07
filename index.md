@@ -13,9 +13,12 @@ My broad research interests include on computational game theory, large-scale st
 For more information, please see my  [CV](https://www.dropbox.com/s/sfvmslymrgmpudt/CV_Sweta_Panda.pdf?dl=0)  and following is a list of my publications. You can also reach me via [swetasudha.panda at oracle dot com].
 
 
-- Scalable MDP interdiction using Linear and Neural Networks Function Approximation. International Joint Conference on Artificial Intelligence (IJCAI), 2018[Overview](pages/overview.html)
-- Near-Optimal Interdiction of Factored MDPs. Conference on Uncertainty in Artificial Intelligence (UAI), 2017
-- Stackelberg Games for Vaccine Design.  International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2015
+- Scalable MDP interdiction using Linear and Neural Networks Function Approximation. 
+  International Joint Conference on Artificial Intelligence (IJCAI), 2018
+- Near-Optimal Interdiction of Factored MDPs. 
+  Conference on Uncertainty in Artificial Intelligence (UAI), 2017
+- Stackelberg Games for Vaccine Design.  
+  International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2015
 
 
 ---
