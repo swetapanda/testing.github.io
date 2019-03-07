@@ -3,9 +3,16 @@ layout: page
 title: Swetasudha Panda
 ---
 
-body {
-    font: 4px;
-}
+<head>
+<basefont color="red" size="5">
+</head>
+
+<body>
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+</body>
+
+
 Hello, 
 
 I am Sweta, a senior member of technical staff at the  [<font color="DarkRed"> Machine Learning Research Group, Oracle Labs </font>](https://labs.oracle.com/pls/apex/f?p=labs:49:::::P49_PROJECT_ID:7).  Previously, I was a PhD candidate in Computer Science at Vanderbilt University, fortunate to be advised by Professor Yevgeniy Vorobeychik. I graduated with BTech in Electrical Engineering from Indian Institute of Technology, Kharagpur.  
