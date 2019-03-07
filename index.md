@@ -3,7 +3,6 @@ layout: page
 title: Swetasudha Panda
 ---
 
-Hello, 
 
 I am Sweta, a senior member of technical staff at the  [<font color="DarkRed" size="4"> Machine Learning Research Group, Oracle Labs <\font>](https://labs.oracle.com/pls/apex/f?p=labs:49:::::P49_PROJECT_ID:7) in Boston, MA.  Previously, I was a PhD candidate in Computer Science at Vanderbilt University, fortunate to be advised by Professor Yevgeniy Vorobeychik. I graduated with BTech in Electrical Engineering from Indian Institute of Technology, Kharagpur.  
 
