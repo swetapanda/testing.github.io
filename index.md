@@ -15,7 +15,7 @@ For more information, please see my  [CV](https://www.dropbox.com/s/sfvmslymrgmp
     International Joint Conference on Artificial Intelligence (IJCAI), 2018 
 -  Near-Optimal Interdiction of Factored MDPs. 
    Conference on Uncertainty in Artificial Intelligence (UAI), 2017 
--   Stackelberg Games for Vaccine Design. </font>  
+-   Stackelberg Games for Vaccine Design. 
 
 ---
 
