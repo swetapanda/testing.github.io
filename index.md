@@ -3,7 +3,7 @@ layout: page
 title: Swetasudha Panda
 ---
 
-<font size="12">
+<font size="6">
 Hello,
 
 I am Sweta, a senior member of technical staff at the <font color="red"> [Machine Learning Research Group, Oracle Labs](https://labs.oracle.com/pls/apex/f?p=labs:49:::::P49_PROJECT_ID:7)</font>. Previously, I was a PhD candidate in Computer Science at Vanderbilt University, fortunate to be advised by Professor Yevgeniy Vorobeychik. My broad research interests include on computational game theory, large-scale stochastic planning problems: markov decision processes (MDPs), machine learning, optimization, reinforcement learning, multiagent systems and artificial intelligence. My current research is on algorithmic fairness. 
