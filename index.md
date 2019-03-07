@@ -9,7 +9,7 @@ I am Sweta, a PhD candidate in Computer Science at Vanderbilt University.  I am 
 
 Previously, I graduated with BTech in Electrical Engineering from Indian Institute of Technology, Kharagpur.  
 
-For more information, please see my [CV] (https://dropbox.com/s/sfvmslymrgmpudt/CV_Sweta_Panda.pdf?dl=0)  and  list of publications. You can also reach me via [swetasudha.panda at vanderbilt dot edu].
+For more information, please see my [CV] (https://pages.github.com)  and  list of publications. You can also reach me via [swetasudha.panda at vanderbilt dot edu].
 
 For me, the painful aspects of making a website are
 
