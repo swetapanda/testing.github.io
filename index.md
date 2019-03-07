@@ -8,7 +8,11 @@ I am Sweta, a senior member of technical staff at the [Machine Learning Research
 My broad research interests include computational game theory, large-scale stochastic planning problems: markov decision processes (MDPs), machine learning, optimization, reinforcement learning, multiagent systems and artificial intelligence. My current research is on algorithmic fairness. 
 For more information, please see my [CV](https://www.dropbox.com/s/sfvmslymrgmpudt/CV_Sweta_Panda.pdf?dl=0)  and following is a list of my publications.  You can also reach me via [swetasudha.panda at oracle dot com].
 
+<H2>Dissertation</H2>
 
+<H2>Journal Publications</H2>
+
+<H2>Conference Publications</H2>
 -  Scalable MDP interdiction using Linear and Neural Networks Function Approximation. 
    International Joint Conference on Artificial Intelligence (IJCAI), 2018 
 -  Near-Optimal Interdiction of Factored MDPs. 
@@ -22,7 +26,7 @@ For more information, please see my [CV](https://www.dropbox.com/s/sfvmslymrgmpu
 -  Regression Forest Region Recognition enhances Multi-atlas Spleen Labeling.
    Challenge Workshop on Segmentation: Algorithms, Theory and Applications (SATA), 2013
 -  
-   
+<H2>Workshop Publications</H2>   
 
 ---
 
