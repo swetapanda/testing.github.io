@@ -10,22 +10,27 @@ For more information, please see my [CV](https://www.dropbox.com/s/sfvmslymrgmpu
 
 <H4>Dissertation</H4>
 
-- [Algorithms for Large-Scale Adversarial Decision Problems](pages/overview.html)
+- Algorithms for Large-Scale Adversarial Decision Problems
 
 <H4>Conference Publications</H4>
--  Scalable MDP interdiction using Linear and Neural Networks Function Approximation. 
-   International Joint Conference on Artificial Intelligence (IJCAI), 2018 
--  Near-Optimal Interdiction of Factored MDPs. 
-   Conference on Uncertainty in Artificial Intelligence (UAI), 2017 
--  Stackelberg Games for Vaccine Design. 
-   International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2015 
--  Designing Vaccines that are Robust to Virus Escape
-   Association for the Advancement of Artificial Intelligence (AAAI), 2015
--  Robust Optic Nerve Segmentation on Clinically Acquired CT
-   SPIE Medical Imaging Conference, 2014
--  Regression Forest Region Recognition enhances Multi-atlas Spleen Labeling.
-   Challenge Workshop on Segmentation: Algorithms, Theory and Applications (SATA), 2013
--  
+- Scalable initial state interdiction for factored MDPs.
+  Swetasudha Pandaand Yevgeniy Vorobeychik. 
+  International Joint Conference on Artificial Intelligence(IJCAI) 2018.2. 
+- Near-optimal interdiction of factored MDPs.
+  Swetasudha Pandaand Yevgeniy Vorobeychik.
+  Conference on Uncertainty in Artificial Intelligence(UAI) 2017.3. 
+- Stackelberg games for vaccine design.
+  Swetasudha Panda and Yevgeniy Vorobeychik.
+  Conference on Autonomous Agents and Multiagent Systems(AAMAS) 2015.
+- Designing vaccines that are robust to virus escape.
+  Swetasudha Pandaand Yevgeniy Vorobeychik.
+  Association for Advancement of Artificial Intelligence(AAAI) 2015.
+- Robust optic nerve segmentation on clinically acquired CT.
+  Swetasudha Panda, Andrew J. Asman, Michael P. DeLisi, Louise A. Mawn, Robert L. Galloway,Bennett A. Landman.
+  Medical Imaging Conference(SPIE) 2014.
+- Regression forest region recognition enhances multi-atlas spleen labeling.
+  Bo Li,Swetasudha Panda, Zhoubing Xu, Andrew J. Asman, Peter L. Shanahan, Richard G. Abram-son, Bennett A. Landman.
+  MICCAI Challenge Workshop on Segmentation: Algorithms, Theory and Applications(MICCAI SATA)2013
 
 <H4>Journal Publications</H4>
 
