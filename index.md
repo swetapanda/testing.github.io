@@ -1,14 +1,14 @@
----
 layout: page
-title: simple site
-tagline: Easy websites with GitHub Pages
-description: Minimal tutorial on making a simple website with GitHub Pages
+title: Swetasudha Panda
 ---
 
-[Github Pages](https://pages.github.com) provide a simple way to make a
-website using
-[Markdown](https://daringfireball.net/projects/markdown/) and
-[git](https://git-scm.com).
+Hello,
+
+I am Sweta, a PhD candidate in Computer Science at Vanderbilt University.  I am fortunate to be advised by Professor Yevgeniy Vorobeychik .  My broad research interests include computational game theory, large-scale stochastic planning problems: markov decision processes (MDPs), machine learning, optimization, reinforcement learning, multiagent systems and  artificial intelligence.
+
+Previously, I graduated with BTech in Electrical Engineering from Indian Institute of Technology, Kharagpur.  
+
+For more information, please see my [CV] (https://dropbox.com/s/sfvmslymrgmpudt/CV_Sweta_Panda.pdf?dl=0)  and  list of publications. You can also reach me via [swetasudha.panda at vanderbilt dot edu].
 
 For me, the painful aspects of making a website are
 
