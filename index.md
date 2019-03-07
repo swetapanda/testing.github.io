@@ -12,13 +12,6 @@ For more information, please see my [CV](https://www.dropbox.com/s/sfvmslymrgmpu
 
 - [Algorithms for Large-Scale Adversarial Decision Problems](pages/overview.html)
 
-<H4>Journal Publications</H4>
-
-- [Integrating Machine Learning with Structural Modeling to increase HIV Neutralization Breadth](pages/overview.html)
-  
-  PLOS Computational Biology
-- 
-
 <H4>Conference Publications</H4>
 -  Scalable MDP interdiction using Linear and Neural Networks Function Approximation. 
    International Joint Conference on Artificial Intelligence (IJCAI), 2018 
@@ -33,6 +26,15 @@ For more information, please see my [CV](https://www.dropbox.com/s/sfvmslymrgmpu
 -  Regression Forest Region Recognition enhances Multi-atlas Spleen Labeling.
    Challenge Workshop on Segmentation: Algorithms, Theory and Applications (SATA), 2013
 -  
+
+<H4>Journal Publications</H4>
+
+- [Integrating Machine Learning with Structural Modeling to increase HIV Neutralization Breadth](pages/overview.html)
+  
+  PLOS Computational Biology
+- 
+
+
 <H4>Workshop Publications</H4>   
 
 ---
