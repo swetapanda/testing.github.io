@@ -16,18 +16,23 @@ For more information, please see my [CV](https://www.dropbox.com/s/sfvmslymrgmpu
 - Scalable initial state interdiction for factored MDPs.
   Swetasudha Pandaand Yevgeniy Vorobeychik. 
   International Joint Conference on Artificial Intelligence(IJCAI) 2018
+  
 - Near-optimal interdiction of factored MDPs.
   Swetasudha Pandaand Yevgeniy Vorobeychik.
   Conference on Uncertainty in Artificial Intelligence(UAI) 2017
+  
 - Stackelberg games for vaccine design.
   Swetasudha Panda and Yevgeniy Vorobeychik.
   Conference on Autonomous Agents and Multiagent Systems(AAMAS) 2015
+  
 - Designing vaccines that are robust to virus escape.
   Swetasudha Pandaand Yevgeniy Vorobeychik.
   Association for Advancement of Artificial Intelligence(AAAI) 2015
+  
 - Robust optic nerve segmentation on clinically acquired CT
   Swetasudha Panda, Andrew J. Asman, Michael P. DeLisi, Louise A. Mawn, Robert L. Galloway,Bennett A. Landman.
   Medical Imaging Conference(SPIE) 2014.
+  
 - Regression forest region recognition enhances multi-atlas spleen labeling
   Bo Li,Swetasudha Panda, Zhoubing Xu, Andrew J. Asman, Peter L. Shanahan, Richard G. Abram-son, Bennett A. Landman.
   MICCAI Challenge Workshop on Segmentation: Algorithms, Theory and Applications(MICCAI SATA)2013
