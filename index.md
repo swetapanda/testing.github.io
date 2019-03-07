@@ -3,16 +3,8 @@ layout: page
 title: Swetasudha Panda
 ---
 
-<head>
-<basefont color="red" size="4">
-</head>
 
-<body>
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-</body>
-
-
+<font size="6">
 Hello, 
 
 I am Sweta, a senior member of technical staff at the  [<font color="DarkRed"> Machine Learning Research Group, Oracle Labs </font>](https://labs.oracle.com/pls/apex/f?p=labs:49:::::P49_PROJECT_ID:7).  Previously, I was a PhD candidate in Computer Science at Vanderbilt University, fortunate to be advised by Professor Yevgeniy Vorobeychik. I graduated with BTech in Electrical Engineering from Indian Institute of Technology, Kharagpur.  
@@ -28,7 +20,7 @@ For more information, please see my  [CV](https://www.dropbox.com/s/sfvmslymrgmp
    Conference on Uncertainty in Artificial Intelligence (UAI), 2017 
 -   Stackelberg Games for Vaccine Design. </font>  
 
-
+</font>
 ---
 
 
